@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <filter id="s" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.55"/></filter>
+    <radialGradient id="g" cx="50%" cy="34%" r="70%"><stop offset="0" stop-color="#69a9bd" stop-opacity="0.45"/><stop offset="1" stop-color="#31565f"/></radialGradient>
+  </defs>
+  <ellipse cx="48" cy="84" rx="25" ry="8" fill="#000" opacity="0.35"/>
+  <g filter="url(#s)">
+    <path d="M48 16 L70 38 L64 78 L32 78 L26 38 Z" fill="url(#g)" stroke="#102f36" stroke-width="3"/>
+    <circle cx="48" cy="28" r="9" fill="#d8c0a3" stroke="#102f36" stroke-width="2"/>
+    <path d="M30 48 Q48 58 66 48" fill="none" stroke="#d9a441" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+    <path d="M43 74 L53 74 L51 88 L45 88 Z" fill="#0b0907" opacity="0.75"/>
+  </g>
+  <title>Command Extractor</title>
+</svg>

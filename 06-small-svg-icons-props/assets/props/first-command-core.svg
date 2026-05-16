@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 112">
+  <defs><filter id="s"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.6"/></filter></defs>
+  <ellipse cx="48" cy="100" rx="34" ry="9" fill="#000" opacity=".35"/>
+  <g filter="url(#s)">
+    <path d="M48 4 L82 38 L70 96 L26 96 L14 38 Z" fill="#11100d" stroke="#d9a441" stroke-width="4"/>
+    <path d="M30 42 H66 M34 56 H62 M38 70 H58" stroke="#69a9bd" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="48" cy="30" r="8" fill="#f0ce78"/>
+  </g>
+</svg>
